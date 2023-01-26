@@ -1,0 +1,8 @@
+C:\Users\samnb\source\repos\PersonLab1\PersonLab1\obj\Debug\PersonLab1.csproj.AssemblyReference.cache
+C:\Users\samnb\source\repos\PersonLab1\PersonLab1\obj\Debug\PersonLab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\samnb\source\repos\PersonLab1\PersonLab1\obj\Debug\PersonLab1.csproj.CoreCompileInputs.cache
+C:\Users\samnb\source\repos\PersonLab1\PersonLab1\bin\Debug\PersonLab1.exe.config
+C:\Users\samnb\source\repos\PersonLab1\PersonLab1\bin\Debug\PersonLab1.exe
+C:\Users\samnb\source\repos\PersonLab1\PersonLab1\bin\Debug\PersonLab1.pdb
+C:\Users\samnb\source\repos\PersonLab1\PersonLab1\obj\Debug\PersonLab1.exe
+C:\Users\samnb\source\repos\PersonLab1\PersonLab1\obj\Debug\PersonLab1.pdb
